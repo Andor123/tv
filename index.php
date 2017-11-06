@@ -14,3 +14,4 @@ if (isset($_GET['pg']) && !empty($_GET['pg'])) {
 
 include_once 'modules/' . $pg . '.php';
 ?>
+<!-- Random Comment -->
