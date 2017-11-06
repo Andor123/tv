@@ -1,0 +1,24 @@
+header > h1 {
+    text-align: center;
+}
+
+footer > p {
+    text-align: center;
+}
+
+.subtitle {
+    text-align: center;
+}
+
+.form {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 150px;
+    height: 100px;
+}
